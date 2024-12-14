@@ -1,10 +1,10 @@
-# SCIP-Julia-CN
+# SICP-Julia-CN
 
 Structure And Interpretation of Computer Programs (= SICP) 的Julia中文版，涵盖通用计算思想体系与Julia特性的介绍。
 
 内容采用 [Pluto.jl](https://github.com/fonsp/Pluto.jl)编制。
 
-[原版](https://uol.de/en/lcs/projects/sicp-with-julia/plutojl)来自德国奥尔登堡大学(Carl von Ossietzky Universität Oldenburg)
+[原版](https://uol.de/en/lcs/projects/sicp-with-julia/plutojl)来自德国奥尔登堡大学(Universität Oldenburg)
 
 ## 目录结构
 
