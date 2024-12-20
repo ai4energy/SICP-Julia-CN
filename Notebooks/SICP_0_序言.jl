@@ -19,6 +19,18 @@ md"
 ##### 4 调试
 "
 
+# ╔═╡ 1466c5fb-36b7-481a-acb5-ca494c5a92d3
+begin
+	function test()
+	    a = Int[]
+	    for i in 1:10
+	        push!(a, i)
+	    end
+	end
+	test()
+end
+
 # ╔═╡ Cell order:
-# ╠═c5e8ad50-b9ee-11ef-25e8-fdd8589d0e5c
+# ╟─c5e8ad50-b9ee-11ef-25e8-fdd8589d0e5c
 # ╟─ccfa36a4-28a3-4ee7-b590-794d10cb0f9d
+# ╠═1466c5fb-36b7-481a-acb5-ca494c5a92d3
