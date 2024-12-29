@@ -27,7 +27,7 @@ md"
 "
 
 # ╔═╡ d09b25c4-58be-42b9-a94d-2f72fbf4dd69
-size
+size+1
 
 # ╔═╡ 06a90696-699e-4269-9f73-7cb4f3acc0ca
 md"
@@ -38,10 +38,10 @@ md"
 *(5, size)
 
 # ╔═╡ 8f9ac6f9-573b-44bd-b22b-669ae55bcbf1
-pi_SICP = 3.14159
+pi_SICP = 3.1415926
 
 # ╔═╡ 6689bc4c-9a37-402d-a602-4cae12c318a5
-radius = 10
+radius = 1
 
 # ╔═╡ 1dd2b96a-5aec-439c-b3e1-6bf41811ae9d
 md"
@@ -74,7 +74,7 @@ md"
 typeof(size)
 
 # ╔═╡ 529d628c-b723-4637-b715-6c3ea34ec777
-pi                       # Julia's constant π
+pi              # Julia's constant π
 
 # ╔═╡ c0e06aa4-d579-443d-a9eb-22c83915a68e
 typeof(pi)               # type is irrational !
@@ -100,6 +100,15 @@ circumference = 2 * pi * radius
 # ╔═╡ ec607645-1751-4b02-9576-a0ae82434c98
 circumference2 = 2π * radius      # juxtaposition of 2π
 
+# ╔═╡ d54b0e0e-d30e-4875-b85c-b0634bed40d1
+σ = 1
+
+# ╔═╡ 8dd15462-0b18-4db1-9b7d-fd394c0912a0
+2σ
+
+# ╔═╡ 0f1c95dd-5ea2-4633-ab9b-7287be697275
+
+
 # ╔═╡ 656eaa4d-846c-4849-97ea-266a38f85d41
 md"
 ---
@@ -107,17 +116,6 @@ md"
 
 - **Abelson, H., Sussman, G.J. & Sussman, J.**, Structure and Interpretation of Computer Programs, Cambridge, Mass.: MIT Press, (2/e), 1996, [https://sarabander.github.io/sicp/](https://sarabander.github.io/sicp/), last visit 2022/08/23
 
-"
-
-# ╔═╡ b10318d0-4cc0-43bf-af57-72b030992d8f
-md"
----
-##### end of ch. 1.1.2
-===================================================================================
-
-This is a **draft** under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. Comments, suggestions for improvement and bug reports are welcome: **claus.moebus(@)uol.de**
-
-===================================================================================
 "
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
@@ -150,7 +148,7 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 # ╠═1a71832a-20ba-4807-8c54-a8ff45487a59
 # ╟─b462248d-f04f-43e4-b320-2277157d3dce
 # ╠═676b0597-c81d-49bb-93a1-74ce4a1ebb65
-# ╠═55017fa6-ad28-4c5a-bf00-23e8f5e75239
+# ╟─55017fa6-ad28-4c5a-bf00-23e8f5e75239
 # ╠═cb51bf29-15c0-484d-9d34-77668d1381ff
 # ╠═529d628c-b723-4637-b715-6c3ea34ec777
 # ╠═c0e06aa4-d579-443d-a9eb-22c83915a68e
@@ -161,7 +159,9 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 # ╠═eb8bdbd6-ba4d-423a-914b-91b76864a0a6
 # ╠═8a84aab1-a610-4c6c-accb-8ec04ba57bfa
 # ╠═ec607645-1751-4b02-9576-a0ae82434c98
+# ╠═d54b0e0e-d30e-4875-b85c-b0634bed40d1
+# ╠═8dd15462-0b18-4db1-9b7d-fd394c0912a0
+# ╠═0f1c95dd-5ea2-4633-ab9b-7287be697275
 # ╟─656eaa4d-846c-4849-97ea-266a38f85d41
-# ╟─b10318d0-4cc0-43bf-af57-72b030992d8f
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
