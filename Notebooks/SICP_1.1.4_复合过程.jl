@@ -27,10 +27,6 @@ $$square : x \mapsto square(x)$$
 $$square(x) := x^2$$
 "
 
-# ╔═╡ b7025b0c-5010-47f7-9c73-789c9335987a
-md"
-"
-
 # ╔═╡ 150ad79c-42b4-4981-8711-1ef426725ca0
 square(x) = *(x, x)           # 1st (default) untyped method of function 'square'
 
@@ -1301,7 +1297,6 @@ version = "1.4.1+2"
 # ╠═3d323fd6-b7a2-427d-a058-6dfe9ab04289
 # ╟─4e1efa4a-cb44-4913-a35f-0a779ee0ee2a
 # ╟─73339eae-4754-49b1-938a-5ceae1c0f6a3
-# ╠═b7025b0c-5010-47f7-9c73-789c9335987a
 # ╠═150ad79c-42b4-4981-8711-1ef426725ca0
 # ╠═714e9893-f609-4a24-a020-0041f5361a2d
 # ╠═8db7e80c-a877-44ff-aa15-48841c035aeb
@@ -1309,7 +1304,7 @@ version = "1.4.1+2"
 # ╠═731aa7ca-d4af-4be8-8a40-2eec5522ad99
 # ╟─7e97208a-d1b0-435e-8756-f0b468b1c795
 # ╠═140e78ee-a3af-46c7-9ad3-dfac7cf56bc4
-# ╠═97d5f945-f0fe-4e2e-8bc3-6a562caf31eb
+# ╟─97d5f945-f0fe-4e2e-8bc3-6a562caf31eb
 # ╠═7254bd30-87b7-48e9-99f8-56159dc78ad4
 # ╠═e6a69b7f-dfb5-45db-a0fc-e4d24229f6c3
 # ╟─b6fda0b6-2ea2-4f2f-961b-65936c050852
