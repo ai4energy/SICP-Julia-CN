@@ -45,6 +45,9 @@ md"
 $$|x| = \cases{\;\;\; x \text{ if } x \gt 0 \cr \;\;\; 0  \text{ if } x = 0 \cr -x \text{ if } x < 0}$$
 " 
 
+# ╔═╡ a0eb8a31-f5d6-4f70-8aa6-cb1366630743
+a = 1
+
 # ╔═╡ 638667fc-0381-47a5-9288-e10b973e10b7
 abs1(x) =  
 	x  > 0 ?  x : 
@@ -320,6 +323,7 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 # ╟─20a147db-1759-4445-a60b-f75e9374864f
 # ╟─b649e901-d3bf-4bf0-9ba8-69cd4e6bf550
 # ╟─8287786a-0c31-4d58-83fe-ff4d75513ebe
+# ╠═a0eb8a31-f5d6-4f70-8aa6-cb1366630743
 # ╠═638667fc-0381-47a5-9288-e10b973e10b7
 # ╠═c0df9843-2a0c-4c00-a3ee-78a153bde39f
 # ╠═93ac3435-1b97-4a36-8868-69a40e6bfe67
@@ -382,7 +386,7 @@ project_hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"
 # ╠═d7ff540f-4b3c-4f4e-a7ad-eb5487fd98d5
 # ╠═18ee8e44-abd2-4b6e-a66f-5be2dcda2978
 # ╠═6877d30c-7b37-4ec5-9fc7-d6b5fbe382bd
-# ╠═9326271a-ce21-4254-ab26-a42f87d18bc5
+# ╟─9326271a-ce21-4254-ab26-a42f87d18bc5
 # ╠═96004b6e-d0f7-4afa-8ee2-f61aa84af474
 # ╠═b00ca9fe-70fa-4d24-808f-581965d76df6
 # ╠═cedbf13f-be78-43d7-879a-63971f02c8f5
