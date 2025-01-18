@@ -27,9 +27,9 @@ $$fac(n):= 1 \cdot 2 \cdot 3 \; \cdot \; ... \; \cdot \; (n-1) \cdot n = n*(n-1)
 
 # ╔═╡ 76c277f3-f31f-4f6b-aae1-94fbbda60be4
 function factorial(n)
-	==(n, 1) ? 
+(==(n, 1) ? 
 		1 : 
-		*(n, factorial(-(n, 1)))
+		*(n, factorial(-(n, 1))))
 end # function
 
 # ╔═╡ ab72cb48-9398-42e1-8ed7-8bc8db399ac5
