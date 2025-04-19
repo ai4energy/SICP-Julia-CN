@@ -7,7 +7,7 @@ using InteractiveUtils
 # ╔═╡ 373a14a0-036b-11ec-3063-73539b537973
 md"
 ======================================================================================
-#### SICP: [2.2.1 Representing Sequences](https://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e1) 
+#### SICP: [2.2.1 Representing Sequences(序列的表示)](https://sarabander.github.io/sicp/html/2_002e2.xhtml#g_t2_002e2_002e1) 
 ======================================================================================
 "
 

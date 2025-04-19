@@ -23,7 +23,7 @@ md"
 ##### 2.1.4.1.1 [Intervals](https://en.wikipedia.org/wiki/Interval_arithmetic) ...
 ... are quantities like
 
-$$[x] \equiv [a, b] = \{x \in \mathbb R \;|\; a \ge x \ge b\}$$
+$$[x] \equiv [a, b] = \{x \in \mathbb R \;|\; b \ge x \ge a\}$$
 
 where $$a = -\infty$$ and $$b = \infty$$ are allowed. 
 "
